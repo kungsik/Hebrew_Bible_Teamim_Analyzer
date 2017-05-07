@@ -1,0 +1,41 @@
+<?
+if($_POST['bible'] == 1) { $bible_name = 'Genesis'; }
+if($_POST['bible'] == 2) { $bible_name = 'Exodus'; }
+if($_POST['bible'] == 3) { $bible_name = 'Leviticus'; }
+if($_POST['bible'] == 4) { $bible_name = 'Numbers'; }
+if($_POST['bible'] == 5) { $bible_name = 'Deuteronomy'; }
+if($_POST['bible'] == 6) { $bible_name = 'Joshua'; }
+if($_POST['bible'] == 7) { $bible_name = 'Judges'; }
+if($_POST['bible'] == 8) { $bible_name = 'Ruth'; }
+if($_POST['bible'] == 9) { $bible_name = '1Samiel'; }
+if($_POST['bible'] == 10) { $bible_name = '2Samuel'; }
+if($_POST['bible'] == 11) { $bible_name = '1Kings'; }
+if($_POST['bible'] == 12) { $bible_name = '2Kings'; }
+if($_POST['bible'] == 13) { $bible_name = '1Chronicles'; }
+if($_POST['bible'] == 14) { $bible_name = '2Chronicles'; }
+if($_POST['bible'] == 15) { $bible_name = 'Ezra'; }
+if($_POST['bible'] == 16) { $bible_name = 'Nehemiah'; }
+if($_POST['bible'] == 17) { $bible_name = 'Esther'; }
+if($_POST['bible'] == 18) { $bible_name = 'Job'; }
+if($_POST['bible'] == 19) { $bible_name = 'Psalm'; }
+if($_POST['bible'] == 20) { $bible_name = 'Proverbs'; }
+if($_POST['bible'] == 21) { $bible_name = 'Ecclesiastes'; }
+if($_POST['bible'] == 22) { $bible_name = 'Song of Songs'; }
+if($_POST['bible'] == 23) { $bible_name = 'Isaiah'; }
+if($_POST['bible'] == 24) { $bible_name = 'Jeremiah'; }
+if($_POST['bible'] == 25) { $bible_name = 'Lamentations'; }
+if($_POST['bible'] == 26) { $bible_name = 'Ezekiel'; }
+if($_POST['bible'] == 27) { $bible_name = 'Daniel'; }
+if($_POST['bible'] == 28) { $bible_name = 'Hosea'; }
+if($_POST['bible'] == 29) { $bible_name = 'Joel'; }
+if($_POST['bible'] == 30) { $bible_name = 'Amos'; }
+if($_POST['bible'] == 31) { $bible_name = 'Obadiah'; }
+if($_POST['bible'] == 32) { $bible_name = 'Jona'; }
+if($_POST['bible'] == 33) { $bible_name = 'Micha'; }
+if($_POST['bible'] == 34) { $bible_name = 'Nahum'; }
+if($_POST['bible'] == 35) { $bible_name = 'Habakkuk'; }
+if($_POST['bible'] == 36) { $bible_name = 'Zephaniah'; }
+if($_POST['bible'] == 37) { $bible_name = 'Haggai'; }
+if($_POST['bible'] == 38) { $bible_name = 'Zechariah'; }
+if($_POST['bible'] == 39) { $bible_name = 'Malachi'; }
+?>
