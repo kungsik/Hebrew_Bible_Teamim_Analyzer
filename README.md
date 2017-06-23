@@ -5,6 +5,6 @@ Teamim Analyzer contains the local PHP app to analyze the teamim (Hebrew Accent)
 
 > **Note:**
 
-> - The Hebrew Bible text is based on [OSHB](https://github.com/openscriptures/morphhb/tree/master/parsing/ParsingApp). 
+> - The Hebrew Bible text is based on [OSHB](https://github.com/openscriptures/morphhb/tree/master/parsing/ParsingApp).
 > - Please edit the db.php to excute this app in your environment.
-> - Sample Page: www.kimsbible.com/teamim/teamim.php
+> - Sample Page: www.alphalef.com/apps/teamim/
