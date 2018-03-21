@@ -13,7 +13,7 @@ Created by Kim, Kyoungsik
 Recent Update: Dec. 8th. 2015.
 Homepage: www.kimsbible.com
 Contact: kungsik@gmail.com
-hi.. 
+hi..
 -->
 
 <?
@@ -28,7 +28,10 @@ include "lib.php";
 
 if(!$_POST['submit'] && !$_GET['chapter']) {
 
-	echo "<br><h4>Select the verse that you want to analyze.<br><br> Chapters and Verses are based on Vulgate version (This system is also adopted in several English versions such as NAS, NIV).<br><br>Unfortunately, the current version does not still offer the analysis for אמ''ת(Job, Proverbs, Psalm). It will be updated soon.</h4><br>";
+	echo "<br><h4>Select the verse that you want to analyze.<br><br>
+  Chapters and Verses system is based on that of translated version(not Massora system).
+  <br><br>Unfortunately, the current version does not still offer the analysis for אמ''ת(Job, Proverbs, Psalm).
+  It will be updated soon.</h4><br>";
 
 	include "biblelist.htm";
 
